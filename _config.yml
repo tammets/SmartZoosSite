@@ -17,3 +17,14 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# Navigation
+navigation:
+ - title: About
+   url: /about
+ - title: News
+   url: /news
+ - title: Partners
+   url: /partners
+ - title: Contact
+   url: /contact

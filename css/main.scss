@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -19,7 +17,7 @@ $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$grey-color-light: #f7f5f2;
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
@@ -43,8 +41,6 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -52,32 +48,53 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+// Header
+
+// Main menu
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+    line-height: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li.current a {
+    color: #111;
+}
+
 // Partners grid on partners page
 
 .partner-grid-1, .partner-grid-2, .partner-grid-3, .partner-grid-4 {
   display: block;
   float: left;
-  width: 50%;
-  height: 250px;
+  width: 43%;
+  height: auto;
   text-align: center;
+  background: $grey-color-light;
+  margin: 10px;
+  padding: 10px;
 }
 
-.partner-grid-1:hover, .partner-grid-2:hover, .partner-grid-3:hover, .partner-grid-4:hover {
-  background: white;
-}
-
-.partner-grid-1 {
-  background: red;
-}
-
-.partner-grid-2 {
-  background: blue;
-}
-
-.partner-grid-3 {
-  background: green;
-}
-
-.partner-grid-4 {
-  background: yellow;
+.partner-grid-1 img, .partner-grid-2 img, .partner-grid-3 img, .partner-grid-4 img {
+  padding-bottom: 10px;
 }
