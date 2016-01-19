@@ -64,15 +64,14 @@ nav ul {
 }
 
 nav li {
-    float: left;
+    float: right;
     line-height: 25px;
-    font-size: 14px;
+    font-size: $base-font-size;
     text-transform: uppercase;
 }
 
 nav li a {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -80,6 +79,7 @@ nav li a {
 
 nav li.current a {
     color: #111;
+    background: $grey-color-light;
 }
 
 // Partners grid on partners page
