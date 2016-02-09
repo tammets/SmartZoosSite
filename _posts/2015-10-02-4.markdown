@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The SmartZoos in Tallinn University’s digital magazine"
+date:   2015-10-25 11:01:08 +0200
+categories: project in media
+---
+The SmartZoos project has been presented [Tallinn University’s digital magazine (in Estonian)][TLU-magazine].  
+
+![TLU-magazine](/images/blog-posts/tlu-ajakiri.png)
+
+[TLU-magazine]: http://www.tlu.ee/public/2015-2-Ajakiri/#p=6

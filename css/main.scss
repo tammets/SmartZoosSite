@@ -19,6 +19,7 @@ $brand-color:      #2a7ae2;
 $grey-color:       #828282;
 $grey-color-light: #f7f5f2;
 $grey-color-dark:  darken($grey-color, 25%);
+$link-color:       #f27837;
 
 // Width of the content area
 $content-width:    800px;
@@ -47,6 +48,10 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+a, a:visited {
+  color: $link-color;
+}
 
 // Header
 
@@ -84,17 +89,33 @@ nav li.current a {
 
 // Partners grid on partners page
 
-.partner-grid-1, .partner-grid-2, .partner-grid-3, .partner-grid-4 {
+.partner-grid-1, .partner-grid-2, .partner-grid-3, .partner-grid-4, .partner-grid-5 {
   display: block;
   float: left;
-  width: 43%;
+  width: 100%;
   height: auto;
-  text-align: center;
-  background: $grey-color-light;
+  text-align: justify;
   margin: 10px;
   padding: 10px;
+  border-bottom: 2px solid $grey-color;
 }
 
-.partner-grid-1 img, .partner-grid-2 img, .partner-grid-3 img, .partner-grid-4 img {
-  padding-bottom: 10px;
+.partner-grid-1 img, .partner-grid-2 img, .partner-grid-3 img, .partner-grid-4 img, .partner-grid-5 img {
+  padding: 0 10px 10px 0;
+  display: block;
+  float: left;
+}
+
+.single-partner {
+  padding-top: 20px;
+  float: left;
+  width: 245px;
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+// footer
+
+.site-footer {
+  border-top: 1px solid $grey-color;
 }

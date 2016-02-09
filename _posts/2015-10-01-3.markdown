@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The SmartZoos project kick-off"
+date:   2015-10-01 11:01:08 +0200
+categories: Project news
+---
+![Kickoff](/images/blog-posts/kickoff.png)
+
+The SmartZoos project started with a kick-off meeting on September 15th at Tallinn Zoo.
+
+Although we all had met once during the project preparation phase, the main objective of the meeting was to get to know each other and find synergies as we all have different backgrounds: from zoo specialists to researchers, developers and designers. Apart from that the kick-off meeting created opportunities to discuss about our first tasks and divide responsibilities among the project partners. The afternoon was planned to test out the potential prototype of the SmartZoos location-based tool, however, due to the rainy weather we only had a short excursion in Tallinn Zoo and Priit demonstrated it theoretically. Big thanks to Aet, Maris and Kadri for hosting us!

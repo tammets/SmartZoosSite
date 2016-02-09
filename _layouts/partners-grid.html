@@ -11,16 +11,33 @@ layout: default
     {{ content }}
 
     <div class="partner-grid-1">
-      {% include tlu-desc.html %}
+      {% include partners/tlu/tlu-desc.html %}
+      <div class="partner-staff-member">
+          <div class="single-partner">
+            {% include partners/tlu/tlu-staff-1.html %}
+          </div>
+          <div class="single-partner">
+            {% include partners/tlu/tlu-staff-2.html %}
+        </div>
+        <div class="single-partner">
+          {% include partners/tlu/tlu-staff-3.html %}
+        </div>
+        <div class="single-partner">
+        {% include partners/tlu/tlu-staff-4.html %}
+        </div>
+      </div>
     </div>
     <div class="partner-grid-2">
-      {% include skansen-desc.html %}
+      {% include partners/skansen/skansen-desc.html %}
     </div>
     <div class="partner-grid-3">
-      {% include korkesaari-desc.html %}
+      {% include partners/korkesaari/korkesaari-desc.html %}
     </div>
     <div class="partner-grid-4">
-      {% include tln-zoo.html %}
+      {% include partners/tln-zoo/tln-zoo.html %}
+    </div>
+    <div class="partner-grid-5">
+      {% include partners/sh/sh.html %}
     </div>
   </div>
 
