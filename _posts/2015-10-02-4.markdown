@@ -6,6 +6,6 @@ categories: project in media
 ---
 The SmartZoos project has been presented [Tallinn University’s digital magazine (in Estonian)][TLU-magazine].  
 
-![TLU-magazine](/images/blog-posts/tlu-ajakiri.png)
+![TLU-magazine](/images/blog-posts/tlu-ajakiri.jpg)
 
 [TLU-magazine]: http://www.tlu.ee/public/2015-2-Ajakiri/#p=6

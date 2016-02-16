@@ -4,7 +4,7 @@ title:  "The SmartZoos project kick-off"
 date:   2015-10-01 11:01:08 +0200
 categories: Project news
 ---
-![Kickoff](/images/blog-posts/kickoff.png)
+![Kickoff](/images/blog-posts/kickoff.jpg)
 
 The SmartZoos project started with a kick-off meeting on September 15th at Tallinn Zoo.
 

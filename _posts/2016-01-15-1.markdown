@@ -4,7 +4,7 @@ title:  "SmartZoo – loo ise loomaaed!!"
 date:   2016-01-15 11:01:08 +0200
 categories: Project in media
 ---
-![SmartZoo](/images/blog-posts/sisalik.png)
+![SmartZoo](/images/blog-posts/sisalik.jpg)
 
 Loomaaiad on põnevad kohad õppimiseks ja avastamiseks, eriti kui lisaks tavalisele külastusele saab tehnoloogia ja nutiseadmete abiga midagi huvitavat korda saata. Kujuta ette, et Tallinna loomaaeda külastades tegeled hoopis mõne loomi puudutava nuputamisülesande loomisega. Sellisega, mida teised külastajad saavad oma nutiseadmeid kasutades huvi korral läbi mängida. Veel enam, eduka lahenduse korral õnnestuks punkte või virtuaalseid õpimärke koguda ning nende eest lunastada odavam Helsingi loomaaia pilet, soodustusega laevapilet, kohviku kinkekaart või mõni muu hüve.
 

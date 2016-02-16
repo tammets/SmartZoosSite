@@ -92,7 +92,7 @@ nav li.current a {
 .partner-grid-1, .partner-grid-2, .partner-grid-3, .partner-grid-4, .partner-grid-5 {
   display: block;
   float: left;
-  width: 100%;
+
   height: auto;
   text-align: justify;
   margin: 10px;
@@ -108,9 +108,10 @@ nav li.current a {
 
 .single-partner {
   padding-top: 20px;
+  padding-right: 10px;
   float: left;
-  width: 245px;
-  font-size: $small-font-size;
+  width: 220px;
+  font-size: $small-font-size - 2px;
   color: $grey-color;
 }
 
