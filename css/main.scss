@@ -55,6 +55,10 @@ a, a:visited {
 
 // Header
 
+.site-title {
+  font-size: $base-font-size * 2.5;
+}
+
 // Main menu
 
 nav a {
@@ -87,12 +91,20 @@ nav li.current a {
     background: $grey-color-light;
 }
 
+// Content global
+
+h1.page-heading, h1.post-title {
+  font-size: $base-font-size * 2;
+  letter-spacing: -1px;
+  line-height: 1;
+  font-weight: 200;
+}
+
 // Partners grid on partners page
 
 .partner-grid-1, .partner-grid-2, .partner-grid-3, .partner-grid-4, .partner-grid-5 {
   display: block;
   float: left;
-
   height: auto;
   text-align: justify;
   margin: 10px;
@@ -107,12 +119,28 @@ nav li.current a {
 }
 
 .single-partner {
+  color: $grey-color;
   padding-top: 20px;
   padding-right: 10px;
   float: left;
   width: 220px;
+  height: 80px;
   font-size: $small-font-size - 2px;
-  color: $grey-color;
+  transition: all 1s ease;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(grayscale.svg); /* Firefox 4+ */
+  filter: gray; /* IE 6-9 */
+}
+
+.single-partner:hover {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  filter: none;
 }
 
 // footer
