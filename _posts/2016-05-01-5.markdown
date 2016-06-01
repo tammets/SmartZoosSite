@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Project meeting and workshop in Skansen"
+date:   2016-05-01 11:01:08 +0200
+categories: meeting
+---
+![SmartZoo](/images/blog-posts/IMG_0725.JPG)
+
+In April 28th and 29th 2016 SmartZoos project team met in Skansen to reflect on the project progress and plan next activities. Despite of the not-so-inviting-weather the overall mood was positive and enthusiastic. The main focus of this meeting was to get started with a process of designing gamified learning scenarios for the SmartZoos service package. Martin (TLU) led us through various game elements by running an interactive quiz. This activity helped us to open up our minds for serious brainstorming. Working in groups resulted in quite interesting and promising ideas. We’ll talk about them later then the ideas have matured and taken a more concrete shape. Being already in Skansen, we also used our opportunity to explore Skansen inhabitants and its open-air museum.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/tammets/albums/72157667762554570" title="SmartZoos Skansen"><img src="https://farm2.staticflickr.com/1530/26681756466_39ea672fc5_z.jpg" width="740" height="480" alt="SmartZoos Skansen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

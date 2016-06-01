@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SmartZoos project at e-Vent 2016"
+date:   2016-05-29 12:01:08 +0200
+categories: media
+---
+![SmartZoo](/images/blog-posts/smartzoos_event2016.jpg)
+
+The vision of the SmartZoos project was presented at [e-Vent][htk-event]  - a digital innovation day at Tallinn University dedicated to interesting research and development projects related to technology and innovation in society and education.
+
+[htk-event]: http://htk.tlu.ee/event/

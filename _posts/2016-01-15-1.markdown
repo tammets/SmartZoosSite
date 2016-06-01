@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SmartZoo – loo ise loomaaed!!"
+title:  "SmartZoos – loo ise loomaaed!!"
 date:   2016-01-15 11:01:08 +0200
-categories: Project in media
+categories: media
 ---
 ![SmartZoo](/images/blog-posts/sisalik.jpg)
 
