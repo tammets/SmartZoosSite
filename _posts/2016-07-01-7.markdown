@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SmartZoos workshop with international PhD students"
+date:   2016-06-29 12:01:08 +0200
+categories: media
+---
+![SmartZoo](/images/blog-posts/jtel2016.jpg)
+
+In June, 2016 Priit Tammets and Terje Väljataga organised a workshop on "Learner as a creator with personal technologies in the context of outdoor learning” in the [12th Joint European Summer School on Technology Enhanced Learning][jtel2016], which took place in Roosta, Estonia.
+
+As the general aim of this international summer school is to encourage participants to adopt a critical stance in thinking about the role of technologies in providing opportunities for learners and the potential of these opportunities in terms of learning, the workshop focused on both, pedagogical as well as technological issues of using mobile devices outside of classrooms, for instance in zoos. During the workshop the participants got some insights into theoretical aspects and later had a chance to try out themselves a web-based application, which allows to create adventure tracks and location-based assignments. The overall idea of this application will be implemented into a SmartZoos service package. Below is the abstract of the workshop:
+
+The steadily widening access to mobile technologies and services allows learners and teachers to modify, remix and re-use a wide range of existing artefacts or create new artefacts and assemble them into various content collections in classrooms and outside of school premises. This development holds the potential for shifting patterns of power, roles, and responsibilities of learners stimulating the emergence of new types of creation and production anywhere and anytime. Inspired by Scardamalia and Bereiter’s work (2006) Paavola, Engeström, Hakkarainen (2012) propose a knowledge creation and building metaphor - “trialogical learning” - emphasizing the central role of operations on, and through, knowledge objects. In this view it is essential that learners collaboratively or individually create and develop shared, novel (digital) artefacts with the support of personal (digital) instruments of various kinds. This workshop gives participants an opportunity to get insights into contemporary pedagogical approaches and to take active role of “learner as a creator” with the support of personal devices in the context of outdoor learning and knowledge building. The purpose of this workshop is to engage participants in experiencing and discussing the potential of personal mobile technologies (the concept of “bring your own device”) for making the digital turn towards the new pedagogy aiming at deeper learning.
+
+[jtel2016]: http://www.prolearn-academy.org/Events/summer-school-2016/
