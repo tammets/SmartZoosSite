@@ -8,7 +8,7 @@ categories: media
 
 User studies with several school classes have been performed at Skansen.  In this picture school children are studying paper maps of Skansen, working out how to match them to the maps on their mobile phones and the surrounding area.
 
-![Skansen-2](/images/blog-posts/2017/Screenshot_2017-06-30-11-01-23)
+![Skansen-2](/images/blog-posts/2017/Screenshot_2017-06-30-11-01-23.png)
 
 The July 2017 version of the user interface.  The player has correctly answered a question at Skansen and is shown an arrow indicating how to get to the next closest question.
 
