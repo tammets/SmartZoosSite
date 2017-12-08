@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Demonstrating the toolset"
+date:   2017-03-24 12:01:08 +0200
+categories: media
+---
+In early spring 2017 Tallinn University team visited Tallinn Zoo and Helsinki Zoo to present the first version of the SmartZoos service package. The same was done by Södertön University in Skansen in Sweden. Despite of the cold weather, the service package was tried out by the zoo people. The development team got some good hints and tips of how to make the service package better and more suitable for the zoo purposes.
