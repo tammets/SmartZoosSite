@@ -17,7 +17,7 @@ The project activities include the service package being designed, developed, pi
 The new service package attracts more visitors to the region and therefore fosters growth in economic activity and enhances development of other business activities of the region. The target values are set at 6000 more visitors in the participating zoos during the project and 50 000 more three years after the project.
 The project is funded by under the specific objective of the Central Baltic program *2.1. Natural and cultural resources developed into sustainable tourist attractions, priority 2. Sustainable use of common resources.*
 
-#Contact:
-Dr. Terje Väljataga<br>
-E-mail: info@smartzoos.eu<br>
-Phone: +372 6409 355
+*Contact:*
+*Dr. Terje Väljataga<br>*
+*E-mail: info@smartzoos.eu<br>*
+*Phone: +372 6409 355*
