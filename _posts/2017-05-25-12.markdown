@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SmartZoos service package introduced at eVent 2017
+eVent"
+date:   2017-05-25 12:01:08 +0200
+categories: media
+---
+SmartZoos service package introduced at eVent 2017
+eVent -  a digital innovation day at Tallinn University took place again, in May 24th 2017. This time it was the biggest in terms of number of participants and projects presented. Gerti Pishtari, a PhD student working on the SmartZoos project got the opportunity to show the service package what the development teams in Tallinn University and Södertörn University have been working on.

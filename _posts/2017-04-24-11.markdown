@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SmartZoos people met in Södertörn University"
+date:   2017-04-24 12:01:08 +0200
+categories: media
+---
+The SmartZoos team got together again in April 24th 2017. This time we visited Södertörn University. The purpose of the meeting was to discuss in detail the design and functionalities of the SmartZoos service package.
+
+![SmartZoo](/images/blog-posts/2017/IMG_2154.JPG)

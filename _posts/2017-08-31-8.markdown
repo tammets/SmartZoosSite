@@ -14,4 +14,6 @@ The July 2017 version of the user interface.  The player has correctly answered
 
 ![Skansen-2](/images/blog-posts/2017/IMG_2633.JPG)
 
-Kai-Mikael Jää-Aro of Södertörn University delivers a presentation of the SmartZoos project at the ICALT 2017 conference [icalt2016] (https://icalt.elearning.upt.ro/).
+Kai-Mikael Jää-Aro of Södertörn University delivers a presentation of the SmartZoos project at the [ICALT][icalt] 2017 conference.
+
+[icalt]: https://icalt.elearning.upt.ro/
