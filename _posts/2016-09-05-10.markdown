@@ -6,7 +6,7 @@ categories: media
 ---
 We have finished participatory design sessions with educational experts, teachers, students, zoo specialists, designers and developers. The results of our design sessions have been translated into the first version of the SmartZoos service package by Tallinn University and Södertörn development teams. The tool for creating and playing games in the zoos (Skansen in Stockholm, Helsinki Zoo and Tallinn Zoo) can be tried out here: [https://toolset.smartzoos.eu/][toolset] and in case you are interested in development work take a look at here: [https://github.com/SmartZoos/Toolset][toolset-github].
 
-![SmartZoo](/images/blog-posts/2017/meeting-kork.JPG)
+![SmartZoo](/images/blog-posts/2017/meeting-kork.jpg)
 
 [toolset]: https://toolset.smartzoos.eu/
 [toolset-github]: https://github.com/SmartZoos/Toolset
