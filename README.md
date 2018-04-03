@@ -1,6 +1,6 @@
 # SmartZoosSite
 
-Jekyll based project website - www.smartzoos.eu
+Jekyll based project website - www.project.smartzoos.eu
 
 ## Installation
 
