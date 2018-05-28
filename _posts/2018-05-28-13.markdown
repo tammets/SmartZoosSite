@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Project final event"
+date:   2018-05-28 12:01:08 +0200
+categories: media
+---
+![Invitation](/images/blog-posts/2018/smartzoos-invitation.jpg)
