@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Final event and introduction of results"
+date:   2018-06-06 12:00:00 +0200
+categories: media
+---
+![Final event](/images/blog-posts/2018/final-event-1.jpg)
+
+SmartZoos project and the developed toolset was introduced to the invited guests at Tallinn Zoo.
+
+![Final event](/images/blog-posts/2018/final-event-2.jpg)
