@@ -24,7 +24,7 @@ Dr. Terje Väljataga<br>
 E-mail: info@smartzoos.eu<br>
 Phone: +372 6409 355
 
-Sub-programme: Central Baltic
-Duration: 01.09.2015 - 31.08.2018
-Total budget: €627 680
+Sub-programme: Central Baltic<br>
+Duration: 01.09.2015 - 31.08.2018<br>
+Total budget: €627 680<br>
 ERDF: €497 192
