@@ -22,4 +22,4 @@ Scientific articles:
 * The proceedings of the CELDA 2018 Conference: [http://www.iadisportal.org/digital-library/get-out-helping-teachers-orchestrate-outdoor-game-based-learning-activities](http://www.iadisportal.org/digital-library/get-out-helping-teachers-orchestrate-outdoor-game-based-learning-activities)
 
 [1]: /assets/docs/Deliverable-271.docx
-[2]: /assets/docs/Deliverable-271.docx
+[2]: /assets/docs/Deliverable-281.docx
