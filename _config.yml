@@ -26,6 +26,8 @@ navigation:
    url: /news
  - title: Partners
    url: /partners
+ - title: Results
+   url: /results  
 
 # Pagination
 plugins: [jekyll-paginate]
