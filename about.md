@@ -23,3 +23,8 @@ The project is funded by under the specific objective of the Central Baltic prog
 Dr. Terje Väljataga<br>
 E-mail: info@smartzoos.eu<br>
 Phone: +372 6409 355
+
+Sub-programme: Central Baltic
+Duration: 01.09.2015 - 31.08.2018
+Total budget: €627 680
+ERDF: €497 192
