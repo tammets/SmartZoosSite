@@ -12,14 +12,14 @@ The service package has received a positive feedback from the users (see report 
 
 In addition, the SmartZoos project created a stronger link between three zoos, mainly on the level of education and training programmes.
 
-SmartZoos service package: https://smartzoos.eu/ <br>
-Development code: https://github.com/SmartZoos/Toolset
+SmartZoos service package: [https://smartzoos.eu/](https://smartzoos.eu/) <br>
+Development code: [https://smartzoos.eu/](https://github.com/SmartZoos/Toolset)
 
 Scientific articles:
-* The proceedings of the 12th European Conference on Technology Enhanced Learning, EC-TEL 2017, Tallinn, Estonia: https://link.springer.com/book/10.1007/978-3-319-66610-5?page=2#toc
-* The proceedings of the 17th IEEE International Conference on Advanced Learning Technologies - ICALT2017: https://ieeexplore.ieee.org/document/8001725
-* The proceedings of the ICEM 2018 Conference: https://www.springer.com/gp/book/9789811373602
-* The proceedings of the CELDA 2018 Conference: http://www.iadisportal.org/digital-library/get-out-helping-teachers-orchestrate-outdoor-game-based-learning-activities
+* The proceedings of the 12th European Conference on Technology Enhanced Learning, EC-TEL 2017, Tallinn, Estonia: [https://link.springer.com/book/10.1007/978-3-319-66610-5?page=2#toc](https://link.springer.com/book/10.1007/978-3-319-66610-5?page=2#toc)
+* The proceedings of the 17th IEEE International Conference on Advanced Learning Technologies - ICALT2017: [https://ieeexplore.ieee.org/document/8001725](https://ieeexplore.ieee.org/document/8001725)
+* The proceedings of the ICEM 2018 Conference: [https://www.springer.com/gp/book/9789811373602](https://www.springer.com/gp/book/9789811373602)
+* The proceedings of the CELDA 2018 Conference: [http://www.iadisportal.org/digital-library/get-out-helping-teachers-orchestrate-outdoor-game-based-learning-activities](http://www.iadisportal.org/digital-library/get-out-helping-teachers-orchestrate-outdoor-game-based-learning-activities)
 
 [1]: /assets/docs/Deliverable-271.docx
 [2]: /assets/docs/Deliverable-271.docx
